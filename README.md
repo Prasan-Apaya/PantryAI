@@ -1,2 +1,2 @@
 # PantryAI
-Get recipes based off itema avaliable in your home
+Get recipes based off items avaliable at your home
